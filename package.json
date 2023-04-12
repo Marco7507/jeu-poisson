@@ -1,0 +1,19 @@
+{
+  "name": "jeu-poisson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marco7507/jeu-poisson.git"
+  },
+  "author": "Marc-Antoine Leonelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marco7507/jeu-poisson/issues"
+  },
+  "homepage": "https://github.com/Marco7507/jeu-poisson#readme"
+}
